@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.gisllp.push" version="1.0.0">
-  <name>ND2NO</name>
-  <description>ND2NO</description>
+  <name>Push</name>
+  <description>Push</description>
   <author href="https://www.nd2nosmart.cards/nd2no/" email="kapil.of.ojha@gmail.com">GISLLP Team</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
